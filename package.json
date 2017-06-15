@@ -1,0 +1,21 @@
+{
+  "name": "@cross2d/react-web-grid-view",
+  "version": "1.0.0",
+  "description": "React Native Grid/Collection View component",
+  "main": "index.js",
+  "scripts": {
+    "release": "npm publish --access public"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios"
+  ],
+  "author": "Colin3dmax",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">=0.25.1"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
